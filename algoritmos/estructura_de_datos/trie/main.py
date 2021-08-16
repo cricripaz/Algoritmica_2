@@ -53,7 +53,7 @@ class Trie():
     #TAREA DELETE
     #Cristian Paz
 
-    def delete(self, word):
+    def deleteWord(self, word):
 
         root = self.root
         len1 = len(word)
@@ -91,7 +91,7 @@ if __name__ == '__main__':
 
     print("Delete de la Palabra ALA \n")
 
-    t.delete("ala")
+    t.deleteWord("ala")
 
     print(t.search("ala"))
 
