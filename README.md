@@ -2,6 +2,6 @@
 
 Repositorio : Cristian Paz
 
-## Indice 🚀
+## Indice 📖
 * [SegmentTree](google.com)
 * [UnionFind](google.com)
