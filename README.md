@@ -1,2 +1,7 @@
-# Algoritmica_2
-_Repositorio : Cristian Paz
+# Algoritmica_2 
+
+Repositorio : Cristian Paz
+
+## Indice 🚀
+* [SegmentTree](google.com)
+* [UnionFind](google.com)
