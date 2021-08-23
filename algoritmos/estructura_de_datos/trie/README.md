@@ -23,6 +23,3 @@ Mientras que un map tiene una complejidad temporal O( k log n )para todas estas 
 
 Asímismo, la complejidad espacial también es lineal, O( X )donde  X es la suma de las longitudes de todas las claves.
 
-
-
-
